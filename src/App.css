@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  padding-left: 16px;
+  
+} 
+
+h4{
+  padding-left: 16px;
+} 
+
+h3{
+  padding-left: 16px;
+  margin: 8px;
+  border: 1px solid silver;
+  padding: 8px;    
+  border-radius: 4px;
+  background-color: #61dafb;
+
+}
+body{
+
+  margin: 8px;
+  border: 1px solid silver;
+  padding: 8px;    
+  border-radius: 4px;
+  width: 50%;
+  align-items: center;
+}
